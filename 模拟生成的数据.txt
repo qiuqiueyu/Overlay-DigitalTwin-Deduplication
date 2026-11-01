@@ -1,0 +1,23 @@
+PS C:\Users\16946\Desktop> python modulegraph2.py  
+C:\Users\16946\Desktop\modulegraph2.py:113: SyntaxWarning: "\m" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\m"? A raw string is also an option.
+  ax3.set_ylabel('Resource Compression Ratio ($\mathit{CR}$)', fontsize=12)
+
+=====================================================================================
+TABLE I: EXPERIMENTAL CROSS-SECTIONAL DATA UNDER DIFFERENT NETWORK SCALES (N)
+=====================================================================================
+Leaf (N)  Su (T=50)   So (T=50)   Su (T=300)     So (T=300)     CR (T=300)
+-------------------------------------------------------------------------------------
+10        1879        348         9415           2139           4.40      
+20        4860        328         22122          2127           10.40     
+30        7195        350         33095          2087           15.86     
+40        10964       360         45208          2078           21.76     
+50        15295       346         58747          2113           27.80     
+60        20286       368         72156          2075           34.77     
+70        25063       342         84535          2093           40.39     
+80        30264       347         98584          2078           47.44     
+90        35991       348         111693         2070           53.96     
+100       43110       365         129560         2097           61.78     
+=====================================================================================
+
+[Success] High-resolution academic figure saved as 'fig2_simulation_results.png'!
+PS C:\Users\16946\Desktop> 
