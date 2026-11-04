@@ -30,7 +30,7 @@
 
 ```text
 ├── overlay_dt_simulation.py    # 仿真核心 Python 脚本 / Core simulation script / Основной скрипт симуляции
-├── requirments.txt             # 环境基础依赖包 / Minimal dependencies / Минимальные зависимости среды
+├── requirements.txt             # 环境基础依赖包 / Minimal dependencies / Минимальные зависимости среды
 ├── Инструкция на русском языке.pdf # 俄罗斯语说明 / Russian manual / Инструкция на русском
 ├── 示意图.svg                   # 架构对比图 (SVG) / Architecture diagram / Схема архитектуры
 └── readme.md                   # 本说明文档 / Repository documentation / Этот документ
